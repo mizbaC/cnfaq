@@ -63,5 +63,14 @@ Ans.    Routers can connect two or more network segments. These are intelligent 
 14. What are protocols?
     Protocol is a standard used to define a method of exchanging data over a computer network.
     For example : TCP, IP, UDP, POP, SMTP, HTTP, and FTP 
+    
+15.Name the factors that affect the performance of the network?
+    a. Number of Users
+    b. Type of transmission medium
+    c. Hardware
+    d. Software
+    
 
-15.
+16.Name the factors that affect the reliability of the network?
+    a. Frequency of failure
+    b. Recovery time of a network after a failure
